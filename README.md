@@ -1,7 +1,3 @@
-01 HTML, CSS, and Git: Code Refactor
-Your Task
-Be sure to review the Homework Guide before you start working on this assignment! This week is an odd-numbered week, so your homework is an on-the-job ticket—meaning that you'll begin with starter code that you need to modify.
-
 Refactoring existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. For this particular homework assignment, a marketing agency has hired you to refactor an existing site to make it more accessible.
 
 Important: When working with someone else's code, you should adhere to the Scout Rule—always leave the code a little cleaner than when you found it.
@@ -55,46 +51,5 @@ You can also refer to this YouTube video on enabling GitHub Pages for more guida
 Important: It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your application are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment.
 
 Be sure to add, commit, and push your work to see the most up-to-date version of your app!
-
-Grading Requirements
-This homework is graded based on the following criteria:
-
-Technical Acceptance Criteria: 40%
-Satisfies all of the preceding acceptance criteria plus the following code improvements:
-
-Application's links all function correctly.
-
-Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-
-Application's CSS file is properly commented.
-
-Deployment: 32%
-Application deployed at live URL.
-
-Application loads with no errors.
-
-Application GitHub URL submitted.
-
-GitHub repository contains application code.
-
-Application Quality: 15%
-Application resembles mock-up provided in the homework instructions (at least 90%).
-Repository Quality: 13%
-Repository has a unique name.
-
-Repository follows best practices for file structure and naming conventions.
-
-Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-Repository contains multiple descriptive commit messages.
-
-Repository contains quality README file with description, screenshot, and link to deployed application.
-
-Review
-You are required to submit the following for review:
-
-The URL of the deployed application.
-
-The URL of the GitHub repository, with a unique name and a README that describes the project.
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
